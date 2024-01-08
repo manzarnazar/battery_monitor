@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852480928285",
+    "project_id": "batteryalarm-845a4",
+    "storage_bucket": "batteryalarm-845a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852480928285:android:3f5230522dd81faec034f4",
+        "android_client_info": {
+          "package_name": "com.batterychargealarm.batteryalert.chargealarm.batteryinfo.battery_alarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQrQ8DFcJvMzhTunr0o7X5TWimYOwS3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

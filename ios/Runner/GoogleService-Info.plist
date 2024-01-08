@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBtN2ExUeSGZ4SsORmf5qRtsjY7Bfah0Qw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>852480928285</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.batterychargealarm.batteryalert.chargealarm.batteryInfo.batteryalarm.batterycharge</string>
+	<key>PROJECT_ID</key>
+	<string>batteryalarm-845a4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>batteryalarm-845a4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:852480928285:ios:3f60e3acf3facd78c034f4</string>
+</dict>
+</plist>
